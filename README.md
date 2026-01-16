@@ -27,13 +27,6 @@ Abaarso Tech University × Soltelco
 
 ---
 
-## Education
-
-**BSc in Software Engineering** *(In Progress)*
-Abaarso Tech University — Expected 2026
-
----
-
 ## Contact
 
 * Email: [najmaaabdirizak@gmail.com](mailto:najmaaabdirizak@gmail.com)
