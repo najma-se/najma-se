@@ -6,9 +6,25 @@
 
 ## About Me
 
-I am a **Junior Software Developer** with a strong focus on backend and full‑stack development. I have hands‑on experience building real‑world applications using **Django**, and I enjoy designing clean, reliable systems that solve practical problems. I have worked in team‑based environments, including hackathon, where I contributed under tight deadlines while maintaining code quality.
+I am a **backend-focused full-stack developer** with hands-on experience building structured, database-driven web applications using Django, Python, JavaScript, and SQL.
 
-I am actively seeking **entry‑level or junior software development opportunities**.
+I enjoy designing system architecture, modeling databases, implementing authentication and role-based access control, and building scalable backend logic that powers real applications. I have worked on multi-module systems including appointment management platforms and role-based enterprise dashboards, where I handled backend development, business logic, and system structure.
+
+While I can build full-stack applications end-to-end, my strongest interest lies in backend engineering — API design, data modeling, system organization, and writing clean, maintainable server-side code.
+
+**Currently, I am deepening my expertise in:**
+
+* Django & Django REST Framework
+
+* PostgreSQL & database design
+
+* Authentication & authorization systems
+
+* API development
+
+* Deployment fundamentals
+
+I am seeking internship or junior opportunities where I can contribute to real backend systems, learn from experienced engineers, and continue developing production-level skills.
 
 ---
 
