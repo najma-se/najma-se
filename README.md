@@ -1,4 +1,4 @@
-# Hi there, I'm Najma Abdirazak
+# Hi there, I'm Najma Abdirizak
 
 **Junior Software Developer | Software Engineering Student**
 
