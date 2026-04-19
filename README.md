@@ -1,4 +1,4 @@
-# Hi there, I'm Najma Abdirazak👋
+# Hi there, I'm Najma Abdirazak
 
 **Junior Software Developer | Software Engineering Student**
 
@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a **backend-focused full-stack developer** with hands-on experience building structured, database-driven web applications using Django, Python, JavaScript, and SQL.
+I am a **Junior full-stack developer** with hands-on experience building structured, database-driven web applications using Django, Python, JavaScript, and SQL.
 
 I enjoy designing system architecture, modeling databases, implementing authentication and role-based access control, and building scalable backend logic that powers real applications. I have worked on multi-module systems including appointment management platforms and role-based enterprise dashboards, where I handled backend development, business logic, and system structure.
 
