@@ -10,21 +10,19 @@ I am a **Junior full-stack developer** with hands-on experience building structu
 
 I enjoy designing system architecture, modeling databases, implementing authentication and role-based access control, and building scalable backend logic that powers real applications. I have worked on multi-module systems including appointment management platforms and role-based enterprise dashboards, where I handled backend development, business logic, and system structure.
 
-While I can build full-stack applications end-to-end, my strongest interest lies in backend engineering — API design, data modeling, system organization, and writing clean, maintainable server-side code.
+**Currently, I am learning:**
 
-**Currently, I am deepening my expertise in:**
-
-* Django & Django REST Framework
-
+* Node.js & Express.js for backend development
 * PostgreSQL & database design
-
 * Authentication & authorization systems
-
-* API development
-
+* RESTful API development
 * Deployment fundamentals
 
-I am seeking internship or junior opportunities where I can contribute to real backend systems, learn from experienced engineers, and continue developing production-level skills.
+### Background:
+I have experience building backend systems using Django and relational databases, and I am currently transitioning into the Node.js ecosystem.
+
+### Goal:
+I am seeking internship or junior backend opportunities where I can contribute to real systems, learn from experienced engineers, and continue developing production-level skills.
 
 ---
 
