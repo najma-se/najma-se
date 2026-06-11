@@ -42,4 +42,6 @@ Abaarso Tech University × Soltelco
 ## Contact
 
 * Email: [najmaaabdirizak@gmail.com](mailto:najmaaabdirizak@gmail.com)
-* GitHub: [https://github.com/najma-se](https://github.com/najma-se)
+* GitHub: [najma-se](https://github.com/najma-se)
+* LinkedIn: [najma-abdirazak](https://www.linkedin.com/in/najma-abdirazak-7a707b254/)
+
